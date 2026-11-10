@@ -1,4 +1,4 @@
-                Sleep Health and Lifestyle -- Exploratory Data Analysis (EDA)
+Sleep Health and Lifestyle -- Exploratory Data Analysis (EDA)
 
 Project Overview
 
